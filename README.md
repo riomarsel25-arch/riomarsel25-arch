@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rio Marsel
 
-<!--
-**riomarsel25-arch/riomarsel25-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a Development Economics graduate with a background in financial markets, I am passionate about transitioning into data analytics. I focus on understanding business operations and uncovering critical business questions to provide forward-looking insights.
 
-Here are some ideas to get you started:
+# Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Ms. Excel, Spread Sheets, SQL, Python, Power BI, Tableau, Looker Studio
+
+# Projects
+
+## AdventureWorks Sales Performance Analysis
+
+AdventureWorks is a company engaged in manufacturing and selling sports equipment, such as Bikes, Accessories, and Clothing. The company aims to understand its business performance during the 2023–2024 period to determine the right strategies for increasing sales and profit.
+
+[View Project](https://github.com/riomarsel25-arch/AdventureWorks-Sales-Performance)
+
+# Contact
+
+E-mail    : riomarsel25@gmail.com 
+
+LinkedIn  : [linkedin.com/in/rio-marselino-perdianto](https://www.linkedin.com/in/rio-marselino-perdianto-75aa901b1/)
+
 -->
