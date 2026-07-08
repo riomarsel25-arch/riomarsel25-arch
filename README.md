@@ -19,5 +19,3 @@ AdventureWorks is a company engaged in manufacturing and selling sports equipmen
 E-mail    : riomarsel25@gmail.com 
 
 LinkedIn  : [linkedin.com/in/rio-marselino-perdianto](https://www.linkedin.com/in/rio-marselino-perdianto-75aa901b1/)
-
--->
